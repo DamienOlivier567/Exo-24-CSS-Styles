@@ -1,1 +1,49 @@
+th{
+    font-style: italic ; color: coral;
+}
+td{
+    font-style: italic; color: black;
+}
+#Table{
+    color: blue;
+    font-weight: bold;
+    text-underline: blue;
+}
+#Premiere\ Partie h3{
+    text-transform: capitalize; color: red;
+}
+#Troisieme\ parti p{
+    color: blue;
+    font-size: small;
+    background-color: #C0C0C0;
+}
+#Blockquote p::first-letter{
+    color: green;
+    font-weight: bold;
+    font-family: fantasy;
+}
+h1,h2,h3{
+    font-family: Arial sans-serif;
+}
+#Produits{
+    font-variant-caps: unicase;
+}
+#Reférence{
+    font-variant-caps: unicase;
+    background-color: gray;
+}
+#Prix{
+    font-variant-caps: unicase;
+}
+#Quantite{
+    font-variant-caps: unicase;
+}
+#Reférence2{
+    background-color: gray;
+}
+body{
+    background-color: white;
+}
+
+
 
